@@ -7,6 +7,7 @@
 - make a new branch:
 ```bash
 $ git checkout -b my-first-pull-request
+$ git push -u origin my-first-pull-request
 ```
 - add your name to the bottom of README.md
 - add, commit, and push your changes
