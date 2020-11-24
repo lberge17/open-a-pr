@@ -20,6 +20,7 @@ $ git push
 
 ## People who've made a PR
 - Laura Berge
+- Andrew Casino
 - Jake
 - Yehuda Z.
 - David Molina
