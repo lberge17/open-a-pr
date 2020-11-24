@@ -7,6 +7,7 @@
 - make a new branch:
 ```bash
 $ git checkout -b my-first-pull-request
+$ git push -u origin my-first-pull-request
 ```
 - add your name to the bottom of README.md
 - add, commit, and push your changes
@@ -18,4 +19,9 @@ $ git push
 - navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
+- Laura Berge
+- Jake
+- Yehuda Z.
+- David Molina
+- Rob Morales
 - Ghamdan Mohsin
