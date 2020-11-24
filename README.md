@@ -18,4 +18,4 @@ $ git push
 - navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
-- Laura Berge
+- David Molina
