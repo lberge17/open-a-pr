@@ -19,3 +19,4 @@ $ git push
 
 ## People who've made a PR
 - Laura Berge
+- Rob Morales
