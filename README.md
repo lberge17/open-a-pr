@@ -20,5 +20,6 @@ $ git push
 
 ## People who've made a PR
 - Laura Berge
+- Yehuda Z.
 - David Molina
 - Rob Morales
