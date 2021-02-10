@@ -30,3 +30,5 @@ $ git push
 - Zac Flynn
 - Ray Alva
 - Rene Garcia
+- Kyle Fossman
+- Ryan Erricson
