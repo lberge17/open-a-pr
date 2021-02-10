@@ -32,3 +32,4 @@ $ git push
 - Rene Garcia
 - Kyle Fossman
 - Ryan Erricson
+- Lydia Cho
