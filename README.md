@@ -29,5 +29,6 @@ $ git push
 - Junaid Abbasi
 - Zac Flynn
 - Ray Alva
+- Rene Garcia
 - Kyle Fossman
 - Ryan Erricson
