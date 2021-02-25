@@ -34,3 +34,4 @@ $ git push
 - Kyle Fossman
 - Ryan Erricson
 - Lydia Cho
+- Kevin Rogers
