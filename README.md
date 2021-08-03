@@ -35,6 +35,7 @@ $ git push
 - Ryan Erricson
 - Lydia Cho
 - Kevin Rogers
+-Taulant Hakaj
 - Raquel Roman-Rodriguez
 - Megan McCarty
 - Iryna Stein
