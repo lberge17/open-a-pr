@@ -35,3 +35,4 @@ $ git push
 - Ryan Erricson
 - Lydia Cho
 - Kevin Rogers
+- Megan McCarty
