@@ -36,3 +36,4 @@ $ git push
 - Lydia Cho
 - Kevin Rogers
 - Megan McCarty
+- Iryna Stein
