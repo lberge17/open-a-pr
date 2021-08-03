@@ -19,7 +19,7 @@ $ git push
 - navigate back to your GitHub repo and open a pull request
 
 ## People who've made a PR
-- Laura
+- Laura Berge
 - Andrew Casino
 - Jake
 - Yehuda Z.
@@ -36,3 +36,6 @@ $ git push
 - Lydia Cho
 - Kevin Rogers
 -Taulant Hakaj
+- Raquel Roman-Rodriguez
+- Megan McCarty
+- Iryna Stein
