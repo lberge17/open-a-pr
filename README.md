@@ -37,4 +37,4 @@ $ git push
 - Kevin Rogers
 - Raquel Roman-Rodriguez
 - Megan McCarty
-
+- Iryna Stein
