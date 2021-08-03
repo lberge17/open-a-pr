@@ -36,3 +36,5 @@ $ git push
 - Lydia Cho
 - Kevin Rogers
 - Raquel Roman-Rodriguez
+- Megan McCarty
+
