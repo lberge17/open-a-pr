@@ -38,3 +38,4 @@ $ git push
 - Raquel Roman-Rodriguez
 - Megan McCarty
 - Iryna Stein
+- Dorthy Thielsen
